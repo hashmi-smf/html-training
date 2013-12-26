@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<employees>
+  <employee>
+    <name>Sattar</name>
+    <age>24</age>
+    <gender>Male</gender>
+  </employee>
+</employees>
